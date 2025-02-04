@@ -1,4 +1,5 @@
 # CSEC_CPD
+#vanya and the fence
 def calculate_minimum_width(n, h, heights):
     total_width = 0
     
